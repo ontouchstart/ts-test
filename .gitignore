@@ -1,2 +1,3 @@
 node_modules
-hello/hello-ts.js
+hello/*.js
+lib/*.js
